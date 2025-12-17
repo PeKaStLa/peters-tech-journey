@@ -13,6 +13,8 @@ All great discoveries and tricky Linux commands will be immortalized here for la
 
 table test
 
+<!--more-->
+
 | Month    | Savings |
 | -------- | ------- |
 | January  | $250    |
