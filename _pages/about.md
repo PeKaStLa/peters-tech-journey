@@ -6,4 +6,4 @@ title: About me
 
 More details about me on this page with links to my social media profiles and so on.
 
-![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
+![https://github.com/PeKaStLa](https://github.com/PeKaStLa/peters-tech-journey/blob/master/assets/imgs/fujisan.jpg)
