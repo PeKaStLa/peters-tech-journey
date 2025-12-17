@@ -13,6 +13,7 @@ linkedin_username: peter-stadler-79b1871b5
 rss: rss
 
 # Minima: show excerpts in the frontpage
+excerpt_separator: '<!--more-->'
 show_excerpts: true
 excerpt_length: 70
 
