@@ -14,7 +14,6 @@ rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
-excerpt_separator: <!--more-->
 excerpt_length: 70
 
 minima:
