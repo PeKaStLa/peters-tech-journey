@@ -1,5 +1,5 @@
-title: Peters DevOps journey
-description: My very nice blog
+title: Peters DevOps Journey
+description: My tech-notes-lookup-blog
 author: "Peter Stadler"
 email: 14peterstadler@gmail.com
 
@@ -18,7 +18,7 @@ show_excerpts: true
 excerpt_length: 70
 
 minima:
-  date_format: "%Y-%m-%d"
+  date_format: "%d-%m-%Y"
 
 # Minima: custom header links
 header_pages:
