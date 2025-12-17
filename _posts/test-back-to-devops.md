@@ -1,3 +1,9 @@
+---
+title: "back to devops"
+date: 2025-12-17
+layout: post
+---
+
 Test:
 
 After 14 months travelling and Working Holiday in Australia I'm going back to DevOps.
