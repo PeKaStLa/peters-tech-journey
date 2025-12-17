@@ -1,3 +1,9 @@
+---
+title: "fgit"
+date: 2025-12-17
+layout: post
+---
+
 When updating a git-repo you normaly have to run three commands: 
 
 1. git add . 
