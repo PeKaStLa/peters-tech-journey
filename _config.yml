@@ -1,6 +1,6 @@
 title: My blog
 description: My very nice blog
-author: "Jorge Sanz"
+author: "Peter Stadler"
 
 theme: minima
 
@@ -8,12 +8,13 @@ base_url: /gh-pages-minima-starter
 repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: PeKaStLa
+linkedin_username: peter-stadler-79b1871b5
 rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
+excerpt_separator: <!--more-->
 excerpt_length: 70
 
 minima:
