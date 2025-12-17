@@ -1,5 +1,5 @@
 ---
-title: "back to devops"
+title: "Back to DevOps"
 date: 2025-12-16
 layout: post
 ---
