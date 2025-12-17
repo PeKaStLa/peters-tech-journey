@@ -10,3 +10,11 @@ The goal: getting a worlwide remote job with highest salary, or skyrocketing wit
 
 All great discoveries and tricky Linux commands will be immortalized here for later lookup as a tech-notes-blog.
 
+
+table test
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
