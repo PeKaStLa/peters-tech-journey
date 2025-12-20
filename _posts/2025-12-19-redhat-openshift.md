@@ -12,3 +12,8 @@ Searching for OpenShift ressources and courses for the Sandbox I accidentally st
 Ihr Produkttest hat begonnen
 Wir haben Ihnen die Download-Informationen auch per E-Mail zugesandt, damit Sie später darauf zurückgreifen können.
 Sie haben noch 59 Tage, um Red Hat OpenShift Container Platform zu testen.
+
+They gave me a small journey over the UI.
+Pipelines, Storages, Helm, Workloads and... VMs:)
+
+Just started a CentOS VM in OpenShift.
