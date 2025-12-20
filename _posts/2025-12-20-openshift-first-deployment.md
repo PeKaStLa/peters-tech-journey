@@ -40,3 +40,6 @@ Handling connection for 8080
 http://localhost:8080/ shows me: Hello from OpenShift Sandbox
 
 Yeii
+
+I can connect to a Shell inside the pod with the command:
+$ oc rsh -n pekastla-dev hello-554f47b468-2gv5x
