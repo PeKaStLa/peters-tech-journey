@@ -28,3 +28,5 @@ After full setup run "crc start" and enter the pull-secret, after what the clust
 
 INFO Starting CRC VM for openshift 4.21.0...      
 INFO CRC instance is running with IP 127.0.0.1    
+
+The server is accessible via web console at: https://console-openshift-console.apps-crc.testing
