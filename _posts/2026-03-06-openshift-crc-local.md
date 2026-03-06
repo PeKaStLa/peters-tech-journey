@@ -4,6 +4,8 @@ date: 2026-03-06
 layout: post
 ---
 
+# Red Hat OpenShift Local (formerly Red Hat CodeReady Containers)
+
 
 Red Hat OpenShift has the option to install a local minimal cluster.
 Maybe there ArgoCD will completely work with admin rights....
@@ -20,4 +22,5 @@ to download the crc installer and your personal pull secret.
 Then run crc setup, which takes a while for downlaoding 6.3GB: 
 
 INFO Downloading bundle: /Users/peter/.crc/cache/crc_vfkit_4.21.0_arm64.crcbundle... 
+4.29 GiB / 6.32 GiB [------------------------------------------------------>_________________________] 67.94% 1.42 MiB/s
 
