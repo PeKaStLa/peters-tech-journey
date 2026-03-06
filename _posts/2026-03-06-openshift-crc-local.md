@@ -24,3 +24,7 @@ Then run crc setup, which takes a while for downlaoding 6.3GB:
 INFO Downloading bundle: /Users/peter/.crc/cache/crc_vfkit_4.21.0_arm64.crcbundle... 
 4.29 GiB / 6.32 GiB [------------------------------------------------------>_________________________] 67.94% 1.42 MiB/s
 
+After full setup run "crc start" and enter the pull-secret, after what the cluster goes live:
+
+INFO Starting CRC VM for openshift 4.21.0...      
+INFO CRC instance is running with IP 127.0.0.1    
